@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.r02.co.tigobusiness.com.ico",
     "slug": "v-cloud-colombia-epm",
     "status": "down",
-    "uptime": "0.90%",
-    "uptimeDay": "0.90%",
-    "uptimeWeek": "0.90%",
-    "uptimeMonth": "0.90%",
-    "uptimeYear": "0.90%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 55
+      "2025-01-31": 79,
+      "2025-01-30": 1417
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 683,
+    "timeDay": 690,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   }
 ]
