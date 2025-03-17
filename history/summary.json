@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-16": 97,
+      "2025-03-17": 87,
+      "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -75,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 539,
-    "timeWeek": 568,
-    "timeMonth": 604,
-    "timeYear": 599,
+    "time": 598,
+    "timeDay": 515,
+    "timeWeek": 569,
+    "timeMonth": 602,
+    "timeYear": 598,
     "dailyMinutesDown": {}
   }
 ]
