@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 85,
+      "2025-04-05": 134,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -89,7 +89,7 @@
     "url": "https://cloud.r01.co.tigobusiness.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.r01.co.tigobusiness.com.ico",
     "slug": "v-cloud-colombia-titanium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "95.93%",
     "uptimeWeek": "98.13%",
@@ -101,6 +101,7 @@
     "timeMonth": 1184,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2025-04-05": 0,
       "2025-04-04": 58,
       "2025-04-02": 24,
       "2025-04-01": 39,
